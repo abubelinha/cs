@@ -17,6 +17,7 @@
   https://github.com/zooniverse/panoptes-python-client  
   http://panoptes-python-client.readthedocs.io/  
   `pip install panoptes-client`
+- [PDF](https://github.com/abubelinha/cs/blob/main/Zooniverse_NfN/help.zooniverse.org.pdf)
 
 ### Other:
 - https://github.com/juliema/label_reconciliations
