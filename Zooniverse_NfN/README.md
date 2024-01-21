@@ -5,7 +5,7 @@
 - https://help.zooniverse.org/next-steps
 - https://help.zooniverse.org/transcription-project-guide
 - code: https://github.com/zooniverse/help/
-- [PDF](https://github.com/abubelinha/cs/raw/main/Zooniverse_NfN/help.zooniverse.org.pdf)  
+- [help.zoonivese.org.pdf](https://github.com/abubelinha/cs/raw/main/Zooniverse_NfN/help.zooniverse.org.pdf)  
 
 ### APIs:
 - Zooniverse API (Panoptes):  
@@ -22,4 +22,4 @@
 
 ### Other:
 - https://github.com/juliema/label_reconciliations
-
+- Notes from Nature Reconciliaton summary: [pdf](./NfN_Reconciliation_Summary.pdf) ([raw](https://github.com/abubelinha/cs/raw/main/Zooniverse_NfN/NfN_Reconciliation_Summary.pdf)) & [docx](./NfN_Reconciliation_Summary.docx)
