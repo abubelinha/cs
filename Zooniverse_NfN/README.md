@@ -5,6 +5,7 @@
 - https://help.zooniverse.org/next-steps
 - https://help.zooniverse.org/transcription-project-guide
 - code: https://github.com/zooniverse/help/
+- [PDF](https://github.com/abubelinha/cs/blob/main/Zooniverse_NfN/help.zooniverse.org.pdf)  
 
 ### APIs:
 - Zooniverse API (Panoptes):  
@@ -17,7 +18,7 @@
   https://github.com/zooniverse/panoptes-python-client  
   http://panoptes-python-client.readthedocs.io/  
   `pip install panoptes-client`
-- [PDF](https://github.com/abubelinha/cs/blob/main/Zooniverse_NfN/help.zooniverse.org.pdf)
+
 
 ### Other:
 - https://github.com/juliema/label_reconciliations
