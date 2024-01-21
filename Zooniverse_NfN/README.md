@@ -5,7 +5,7 @@
 - https://help.zooniverse.org/next-steps
 - https://help.zooniverse.org/transcription-project-guide
 - code: https://github.com/zooniverse/help/
-- [PDF](https://github.com/abubelinha/cs/blob/main/Zooniverse_NfN/help.zooniverse.org.pdf)  
+- [PDF](https://github.com/abubelinha/cs/raw/main/Zooniverse_NfN/help.zooniverse.org.pdf)  
 
 ### APIs:
 - Zooniverse API (Panoptes):  
