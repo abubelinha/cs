@@ -1,5 +1,5 @@
 - [Lukyanenko 2011](./lukyanenko2011.pdf)
-- [Kosmala 2016](https://doi.org/10.1002/fee.1436)
+- [Kosmala 2016](./Kosmala-2016-data.quality.pdf) [DOI:10.1002/fee.1436](https://doi.org/10.1002/fee.1436)
 - [Mika & al. 2017](./Mika-2017.pdf)
 - [COI 2020](./COI-2020-bdj-08-e55959.pdf)
 - [Cohen 2021](./Cohen-Research.Paper-2021.pdf)
