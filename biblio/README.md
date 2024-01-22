@@ -1,5 +1,5 @@
-- Lukyanenko & al 2011
-- Kosmala 2016
-- Mika & al. 2017
-- COI 2020
-- Cohen 2021
+- [Lukyanenko 2011](./lukyanenko2011.pdf)
+- [Kosmala 2016](./Kosmala-2016-Assessing data quality in citizen science.pdf)
+- [Mika & al. 2017](./Mika-2017-Crowdsourcing Natural History Archives_ Tools for Extracting Transcriptions and Data - CORE Reader.pdf)
+- [COI 2020](./COI-2020-bdj-08-e55959.pdf)
+- [Cohen 2021](./Cohen-Research Paper-2021.pdf)
